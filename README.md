@@ -1,8 +1,10 @@
 # 1930-People-with-Occlusion-and-Multi-pose-Face-Recognition-Data
-https://www.datatang.ai/datasets/1073
+
 
 ## Description
-1,930 People with Occlusion and Multi-pose Face Recognition Data, for each subject, 200 images were collected. The 200 images includes 4 kinds of light conditions * 10 kinds of occlusion cases (including non-occluded case) * 5 kinds of face pose. This data can be applied to computer vision tasks such as occluded face detection and recognition.n
+1,930 People with Occlusion and Multi-pose Face Recognition Data, for each subject, 200 images were collected. The 200 images includes 4 kinds of light conditions *10 kinds of occlusion cases (including non-occluded case) * 5 kinds of face pose. This data can be applied to computer vision tasks such as occluded face detection and recognition.
+
+For more details, please refer to the link: https://bit.ly/3Sc2uuc
 
 ## Data size
 1,930 people, 200 images per person
@@ -30,3 +32,6 @@ cellphone
 
 ## Accuracy
 the accuracy of labels of face pose, occlusion case, gender and age is more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
